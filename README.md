@@ -27,7 +27,7 @@ b.- En el módulo ejb:
   - Crear la interface en el módulo EJB con los métodos a implementar
   - Implementar (sobrescribir) los métodos declarados en la interface 
   - Modelo de datos correspondientes
-c.- En el módulo war:
+ c.- En el módulo war:
   - Crear el (o los) JSP que correspondan para un buen funcionamiento de la aplicación
   - Crear el (o los) Servlet que correspondan para interactuar con los JSP 
   - Establecer la comunicación hacia el (los) módulos ejb (@EJB)
